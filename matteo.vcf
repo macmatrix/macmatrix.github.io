@@ -3,13 +3,15 @@ VERSION:3.0
 FN;CHARSET=UTF-8:Matteo Beroldo
 N;CHARSET=UTF-8:Beroldo;Matteo;;;
 EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:matteo@m4trixdev.com
-TEL;TYPE=CELL:+44 7831 226074
+TEL;TYPE=CELL:+44 7880 182532
 ADR;CHARSET=UTF-8;TYPE=WORK:;;71-75 Shelton Street Covent Garden ;London ;;WC2H 9JQ ;England
 TITLE;CHARSET=UTF-8:Company Director
 ROLE;CHARSET=UTF-8:Founder
 ORG;CHARSET=UTF-8:M4trix Dev Limited
 URL;type=WORK;CHARSET=UTF-8:http://m4trixdev.com
 X-SOCIALPROFILE;TYPE=twitter:https://twitter.com/M4trixDev
-X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/mberoldo/
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/company/m4trixdev
+X-SOCIALPROFILE;TYPE=facebook:https://www.facebook.com/m4trixdev/
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/m4trix.dev/
 REV:2022-12-14T11:16:53.307Z
 END:VCARD
